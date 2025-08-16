@@ -1,7 +1,8 @@
 pandas
-ploty
+plotry
 streamlit
 numpy
+
 
 
 
